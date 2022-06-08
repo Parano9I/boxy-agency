@@ -2,11 +2,22 @@
 // colors
 :root {
   // base
-  --font-family: "Open Sans", sans-serif;
+  --font-family: "Inter", sans-serif;
   --content-width: 1170px;
   --container-offset: 15px;
   --container-width: calc(var(--content-width) + (var(--container-offset) * 2));
 
   // colors
-  --light-color: #fff;
+  --white-color: #FFF;
+  --pink-color: #FF37AF;
+  --blue-color: #3B37FF;
+  --black-color: #000000;
+  --dark1-color: #111111;
+  --dark2-color: #555555;
+  --dark3-color: #777777;
+  --light1-color: #EEEEEE;
+  --light2-color: #CCCCCC;
+  --light3-color: #999999;
+  --pink-light-color: #FF37AF;
+  --blue-light-color: #3B37FF;
 }
